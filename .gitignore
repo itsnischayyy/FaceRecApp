@@ -1,0 +1,6 @@
+.env/*
+*.pyc
+__pycache__
+*.sqlite3
+backend/ML/yolov7face/data/images/*
+backend/ML/yolov7face/data/images2/*
